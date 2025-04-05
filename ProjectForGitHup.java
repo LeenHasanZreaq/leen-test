@@ -14,8 +14,7 @@ public static int Additions(String add , int cost ){
     case "SALAD" : 
     cost+= 3 ; 
     break;
-
-
+// this is break statment
     case "COLA" : 
     cost+= 2 ; 
     break;
